@@ -1,1 +1,1 @@
-# active-directory-configure
+# activedirectory-configure
